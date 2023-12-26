@@ -18,4 +18,7 @@ This project uses the following technologies:
 
 
 
+![Screenshot 2023-12-27 012129](https://github.com/AyushRatan1/Chatbot/assets/135870585/84669b59-cba8-430e-b858-0a8bef178db6)
+![Screenshot 2023-12-27 012205](https://github.com/AyushRatan1/Chatbot/assets/135870585/212c4976-db5e-45ae-9d7d-732d3e991d23)
+
 
